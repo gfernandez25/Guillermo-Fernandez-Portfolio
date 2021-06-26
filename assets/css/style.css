@@ -71,7 +71,7 @@ body {
     background-color: white;
     list-style: none;
     width: calc(50% - 10px);
-    margin:5px;
+    margin: 5px;
 }
 
 
@@ -236,4 +236,4 @@ body {
 /*    background-repeat: no-repeat;*/
 /*    width: 100%;*/
 /*    height: 40em;*/
-}
+/*}*/
