@@ -54,6 +54,11 @@ body {
     text-decoration: none;
     margin-right: 30px;
 }
+.section-nav-link:hover {
+   background-color: white;
+    border-radius: 15px;
+    text-shadow: black;
+}
 
 .section-about-me {
     background: var(--background-color);
