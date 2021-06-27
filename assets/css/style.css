@@ -57,13 +57,14 @@ body {
 }
 
 .section-about-me-title {
-
+padding: 10px;
 }
 
 
 .section-about-me-photo {
     float: left;
     margin: 0 10px 10px 0;
+    width: 20%;
 }
 
 .section-work {
@@ -79,6 +80,7 @@ body {
 
 .work-list-item {
     border: 1px solid;
+    border-radius: 15px;
     background-color: var(--background-color);
     list-style: none;
     width: calc(50% - 10px);
@@ -101,6 +103,7 @@ body {
 .work-list-item-link-image {
     display: block;
     width: 100%;
+    border-radius: 15px;
 }
 
 .work-list-item-link-title,
