@@ -38,10 +38,13 @@ body {
 }
 
 .section-main-nav {
-    height: 100px;
+    height: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: var(--background-color);
 }
 
 .section-nav-link {
